@@ -329,8 +329,9 @@ rmf.copySelect = function () {
 //回到顶部
 rmf.scrollToTop = function () {
     document.getElementsByClassName("menus_items")[1].setAttribute("style","");
-    document.getElementById("name-container").setAttribute("style","display:none");
+    // document.getElementById("name-container").setAttribute("style","display:none");
     btf.scrollToDest(0, 500);
+
 }
 rmf.translate = function () {
     document.getElementById("translateLink").click();
@@ -387,6 +388,11 @@ function popupMenu() {
                 txa.select();
                 document.execCommand("Copy");
                 document.body.removeChild(txa);
+                Snackbar.show({
+                    text: '链接复制成功！快去分享吧！',
+                    pos: 'top-right',
+                    showAction: false
+                });
             }
         }
         if (el.tagName == 'IMG') {
@@ -406,6 +412,11 @@ function popupMenu() {
                 txa.select();
                 document.execCommand("Copy");
                 document.body.removeChild(txa);
+                Snackbar.show({
+                    text: '链接复制成功！快去分享吧！',
+                    pos: 'top-right',
+                    showAction: false
+                });
             }
             rmf.saveAs=function(){
                 var a = document.createElement('a');
