@@ -39,8 +39,8 @@ https://spongehah.gitee.io/hahhome.gitee.io
 https://spongehah.gitee.io/hahhome.gitee.io/tags/JUC/
 https://spongehah.gitee.io/hahhome.gitee.io/tags/JVM/
 https://spongehah.gitee.io/hahhome.gitee.io/tags/MySQL/
-https://spongehah.gitee.io/hahhome.gitee.io/tags/%E6%B5%8B%E8%AF%95/
 https://spongehah.gitee.io/hahhome.gitee.io/tags/Nginx/
 https://spongehah.gitee.io/hahhome.gitee.io/tags/Redis/
+https://spongehah.gitee.io/hahhome.gitee.io/tags/%E6%B5%8B%E8%AF%95/
 https://spongehah.gitee.io/hahhome.gitee.io/tags/SpringCloud/
 https://spongehah.gitee.io/hahhome.gitee.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
