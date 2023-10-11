@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.hahhome.top/blog/Kafka%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2023-10-11</lastmod>
+  </url>
+  <url>
     <loc>https://blog.hahhome.top/blog/JVMRuntimeDataArea3/</loc>
     <lastmod>2023-10-03</lastmod>
   </url>
@@ -9,7 +13,7 @@
     <lastmod>2023-10-02</lastmod>
   </url>
   <url>
-    <loc>https://blog.hahhome.top/blog/nginx%E5%9F%BA%E7%A1%80/</loc>
+    <loc>https://blog.hahhome.top/blog/Nginx%E5%9F%BA%E7%A1%80/</loc>
     <lastmod>2023-10-02</lastmod>
   </url>
   <url>

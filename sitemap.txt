@@ -1,9 +1,10 @@
+https://blog.hahhome.top/blog/Kafka%E7%AC%94%E8%AE%B0/
 https://blog.hahhome.top/movies/index.html
 https://blog.hahhome.top/about/index.html
 https://blog.hahhome.top/link/index.html
 https://blog.hahhome.top/blog/JVMRuntimeDataArea3/
 https://blog.hahhome.top/blog/springcloud/
-https://blog.hahhome.top/blog/nginx%E5%9F%BA%E7%A1%80/
+https://blog.hahhome.top/blog/Nginx%E5%9F%BA%E7%A1%80/
 https://blog.hahhome.top/blog/Nginx%E9%AB%98%E7%BA%A7%E8%AF%BE%E7%A8%8B%E6%89%A9%E5%AE%B9%E4%B8%8E%E9%AB%98%E6%95%88/
 https://blog.hahhome.top/blog/JVMRuntimeDataArea2/
 https://blog.hahhome.top/blog/JVMRuntimeDataArea1/
@@ -38,6 +39,7 @@ https://blog.hahhome.top/tags/index.html
 https://blog.hahhome.top/
 https://blog.hahhome.top/tags/JUC/
 https://blog.hahhome.top/tags/JVM/
+https://blog.hahhome.top/tags/Kafka/
 https://blog.hahhome.top/tags/MySQL/
 https://blog.hahhome.top/tags/%E6%B5%8B%E8%AF%95/
 https://blog.hahhome.top/tags/Nginx/
