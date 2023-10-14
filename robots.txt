@@ -1,0 +1,6 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://blog.hahhome.top/sitemap.xml
+Sitemap: https://blog.hahhome.top/baidusitemap.xml
