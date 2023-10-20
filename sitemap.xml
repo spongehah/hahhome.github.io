@@ -385,13 +385,6 @@
   </url>
   
   <url>
-    <loc>https://blog.hahhome.top/tags/Kafka/</loc>
-    <lastmod>2023-10-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.hahhome.top/tags/MySQL/</loc>
     <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -399,7 +392,7 @@
   </url>
   
   <url>
-    <loc>https://blog.hahhome.top/tags/Nginx/</loc>
+    <loc>https://blog.hahhome.top/tags/Kafka/</loc>
     <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -407,6 +400,13 @@
   
   <url>
     <loc>https://blog.hahhome.top/tags/Redis/</loc>
+    <lastmod>2023-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hahhome.top/tags/Nginx/</loc>
     <lastmod>2023-10-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
