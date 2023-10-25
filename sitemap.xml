@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.hahhome.top/blog/MySQL(3)%E7%B4%A2%E5%BC%95%E5%92%8C%E8%B0%83%E4%BC%98%E7%AF%87/</loc>
+    <loc>https://blog.hahhome.top/blog/MySQL(4)%E4%BA%8B%E5%8A%A1%E7%AF%87/</loc>
     
-    <lastmod>2023-10-20</lastmod>
+    <lastmod>2023-10-25</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.hahhome.top/blog/MySQL(4)%E4%BA%8B%E5%8A%A1%E7%AF%87/</loc>
+    <loc>https://blog.hahhome.top/blog/MySQL(3)%E7%B4%A2%E5%BC%95%E5%92%8C%E8%B0%83%E4%BC%98%E7%AF%87/</loc>
     
     <lastmod>2023-10-20</lastmod>
     
@@ -399,14 +399,14 @@
   </url>
   
   <url>
-    <loc>https://blog.hahhome.top/tags/Redis/</loc>
+    <loc>https://blog.hahhome.top/tags/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2023-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.hahhome.top/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://blog.hahhome.top/tags/Redis/</loc>
     <lastmod>2023-10-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
