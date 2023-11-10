@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.hahhome.top/blog/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
+    
+    <lastmod>2023-11-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.hahhome.top/blog/Redis%E5%8E%9F%E7%90%86%E7%AF%87/</loc>
     
     <lastmod>2023-11-02</lastmod>
@@ -409,7 +418,7 @@
 
   <url>
     <loc>https://blog.hahhome.top/</loc>
-    <lastmod>2023-11-02</lastmod>
+    <lastmod>2023-11-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -417,63 +426,70 @@
   
   <url>
     <loc>https://blog.hahhome.top/tags/JUC/</loc>
-    <lastmod>2023-11-02</lastmod>
+    <lastmod>2023-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.hahhome.top/tags/JVM/</loc>
-    <lastmod>2023-11-02</lastmod>
+    <lastmod>2023-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.hahhome.top/tags/Kafka/</loc>
-    <lastmod>2023-11-02</lastmod>
+    <lastmod>2023-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.hahhome.top/tags/MySQL/</loc>
-    <lastmod>2023-11-02</lastmod>
+    <lastmod>2023-11-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hahhome.top/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2023-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.hahhome.top/tags/Redis/</loc>
-    <lastmod>2023-11-02</lastmod>
+    <lastmod>2023-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.hahhome.top/tags/Nginx/</loc>
-    <lastmod>2023-11-02</lastmod>
+    <lastmod>2023-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.hahhome.top/tags/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2023-11-02</lastmod>
+    <lastmod>2023-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.hahhome.top/tags/%E7%AB%99%E4%B8%BB%E6%83%B3%E8%AF%B4/</loc>
-    <lastmod>2023-11-02</lastmod>
+    <lastmod>2023-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.hahhome.top/tags/SpringCloud/</loc>
-    <lastmod>2023-11-02</lastmod>
+    <lastmod>2023-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -482,14 +498,14 @@
   
   <url>
     <loc>https://blog.hahhome.top/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2023-11-02</lastmod>
+    <lastmod>2023-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.hahhome.top/categories/%E7%AB%99%E4%B8%BB%E6%83%B3%E8%AF%B4/</loc>
-    <lastmod>2023-11-02</lastmod>
+    <lastmod>2023-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

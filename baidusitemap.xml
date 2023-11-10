@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://blog.hahhome.top/blog/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
+    <lastmod>2023-11-10</lastmod>
+  </url>
+  <url>
     <loc>https://blog.hahhome.top/blog/Redis%E5%8E%9F%E7%90%86%E7%AF%87/</loc>
     <lastmod>2023-11-02</lastmod>
   </url>
